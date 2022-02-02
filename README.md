@@ -58,4 +58,4 @@ I don't know now, but I will evolve more in the future, so I guess, it will chan
 
 - Frontend Mentor - [@O-Prisma](https://www.frontendmentor.io/profile/O-Prisma)
 - Twitter - [@O_Ampris](https://www.twitter.com/O_Ampris)
-- Discord - [Ampris](https://discord.com/channels/@me/892822907842088990)
+- Discord - [Ampris](https://discord.com/channels/@me/301486096158556161)
