@@ -25,8 +25,7 @@ This is a simple challenge from [Frontend Mentor](https://frontendmentor.io/), c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Project: [QR code component](https://o-prisma.github.io)
 
 ## My process
 
